@@ -21,3 +21,6 @@ Como diferencial, integrei a biblioteca ResponsiveVoice para adicionar leitura e
 • Vercel
 
 💻 Link da aplicação: https://jogodonumerosecreto-ten-sigma.vercel.app/
+
+<img width="1920" height="1080" alt="{EED119D2-C6EA-40B3-A843-520D865B7D9E}" src="https://github.com/user-attachments/assets/55d7b7db-33ce-4b05-985f-11f930e91c0e" />
+
