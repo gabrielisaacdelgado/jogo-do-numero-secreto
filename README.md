@@ -21,10 +21,15 @@ Como diferencial, integrei a biblioteca ResponsiveVoice para adicionar leitura e
 • Deploy da aplicação com Vercel
 
 🛠️ Tecnologias utilizadas
+
 • HTML5
+
 • CSS3 (Flexbox e responsividade)
+
 • JavaScript (ES6+)
+
 • ResponsiveVoice
+
 • Vercel
 
 💻 Link da aplicação: https://jogodonumerosecreto-ten-sigma.vercel.app/
