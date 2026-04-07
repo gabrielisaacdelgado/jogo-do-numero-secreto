@@ -6,7 +6,7 @@ Implementei uma lógica que fornece feedback em tempo real, informando se o valo
 
 Como diferencial, integrei a biblioteca ResponsiveVoice para adicionar leitura em voz das mensagens exibidas na tela, melhorando a acessibilidade e a experiência do usuário. O projeto foi publicado utilizando a plataforma Vercel, permitindo acesso online e fácil compartilhamento.
 
-🚀 Destaques técnicos
+🚀 Destaques técnicos:
 
 • Manipulação dinâmica do DOM
 
@@ -20,7 +20,7 @@ Como diferencial, integrei a biblioteca ResponsiveVoice para adicionar leitura e
 
 • Deploy da aplicação com Vercel
 
-🛠️ Tecnologias utilizadas
+🛠️ Tecnologias utilizadas:
 
 • HTML5
 
