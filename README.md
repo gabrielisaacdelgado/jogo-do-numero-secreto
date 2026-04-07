@@ -13,6 +13,7 @@ Como diferencial, integrei a biblioteca ResponsiveVoice para adicionar leitura e
 • Lógica para geração de números aleatórios sem repetição
 • Integração com API externa (Text-to-Speech)
 • Deploy da aplicação com Vercel
+
 🛠️ Tecnologias utilizadas
 • HTML5
 • CSS3 (Flexbox e responsividade)
